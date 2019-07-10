@@ -1,0 +1,53 @@
+.input-meta{
+	width: 100% !important;
+	font-size: 24px;
+	text-align: center;
+	display: table-cell;
+}
+
+.meta-nombre{
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.meta-head{
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.kt-portlet .kt-portlet__head .kt-portlet__head-label .kt-portlet__head-title .tk-title{
+	font-size: 30px;
+	font-weight: 500;
+}
+
+.form-control[readonly].input-meta-valor {
+    background-color: yellow;
+}
+
+.table-meta thead th, 
+.table-meta thead td{
+  text-align: center !important;
+}
+
+.table-meta th, .table-meta td {
+	text-align: center !important;
+	vertical-align: middle !important;
+}
+
+.table-meta thead th:nth-child(1) {
+	width: 5%
+}
+
+.table-meta thead th:nth-child(2) {
+	width: 45%
+}
+
+.table-meta thead th:nth-child(3) {
+	width: 12%
+}
+.table-meta thead th:nth-child(4) {
+	width: 12%
+}
+.table-meta thead th:nth-child(5) {
+	width: 12%
+}
