@@ -24,7 +24,7 @@
             if(array_key_exists($enlaces, $paginador))
                 return $paginador[$enlaces];
             else
-                return $array_basename[1].'wp-login.php';
+                return $array_basename[2].'wp-login.php';
         }
 
     }
