@@ -312,14 +312,14 @@
 
                                             <li class="kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true">
                                                 <a href="javascript:;" class="kt-menu__link kt-menu__toggle">
-                                                    <span class="kt-menu__link-text">ACADÉMICO</span>
+                                                    <span class="kt-menu__link-text">COLEGIO</span>
                                                 </a>
                                                 <div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
                                                     <ul class="kt-menu__subnav">
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
                                                             <a href="?s=wp-grado" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-customer">
-                                                                <span></span></i><span class="kt-menu__link-text">Grado</span>
+                                                                <span></span></i><span class="kt-menu__link-text">Grado Académico</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
                                                             </a>
                                                         </li>
@@ -327,7 +327,7 @@
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
                                                             <a href="?s=wp-seccion" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-network">
-                                                                <span></span></i><span class="kt-menu__link-text">Sección</span>
+                                                                <span></span></i><span class="kt-menu__link-text">Sección Académica</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
                                                             </a>
                                                         </li>
@@ -335,7 +335,24 @@
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
                                                             <a href="?s=wp-nivel" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-map">
-                                                                <span></span></i><span class="kt-menu__link-text">Nivel</span>
+                                                                <span></span></i><span class="kt-menu__link-text">Nivel Académico</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-nivel" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-calendar">
+                                                                <span></span></i><span class="kt-menu__link-text">Periodo Académico</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-nivel" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-calendar-1">
+                                                                <span></span></i><span class="kt-menu__link-text">Año Académico</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
                                                             </a>
                                                         </li>
@@ -344,24 +361,114 @@
                                                 </div>
                                             </li>
 
+                                            <li class="kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true">
+                                                <a href="javascript:;" class="kt-menu__link kt-menu__toggle">
+                                                    <span class="kt-menu__link-text">ACADÉMICO</span>
+                                                </a>
+                                                <div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
+                                                    <ul class="kt-menu__subnav">
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-menu-button">
+                                                                <span></span></i><span class="kt-menu__link-text">Area</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-presentation-1">
+                                                                <span></span></i><span class="kt-menu__link-text">Curso</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-seccion" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-settings">
+                                                                <span></span></i><span class="kt-menu__link-text">Asignación</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                            </li>
+
+                                            <li class="kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true">
+                                                <a href="javascript:;" class="kt-menu__link kt-menu__toggle">
+                                                    <span class="kt-menu__link-text">FICHAS</span>
+                                                </a>
+                                                <div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
+                                                    <ul class="kt-menu__subnav">
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-menu-button">
+                                                                <span></span></i><span class="kt-menu__link-text">Eva</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-presentation-1">
+                                                                <span></span></i><span class="kt-menu__link-text">Tutor</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-seccion" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-settings">
+                                                                <span></span></i><span class="kt-menu__link-text">Configuración</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                            </li>
+
+                                            <li class="kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true">
+                                                <a href="javascript:;" class="kt-menu__link kt-menu__toggle">
+                                                    <span class="kt-menu__link-text">USUARIO</span>
+                                                </a>
+                                                <div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
+                                                    <ul class="kt-menu__subnav">
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-user">
+                                                                <span></span></i><span class="kt-menu__link-text">Estudiante</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-seccion" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-users">
+                                                                <span></span></i><span class="kt-menu__link-text">Personal</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
+                                                            <a href="?s=wp-nivel" class="kt-menu__link">
+                                                                <i class="kt-menu__link-icon flaticon-avatar">
+                                                                <span></span></i><span class="kt-menu__link-text">Usuario</span>
+                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
+                                                            </a>
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                            </li>
+
+                                            
+
                                         </ul>
                                     </div>
-                                    <!-- <div class="kt-header-toolbar">
-                                        <div class="kt-quick-search" id="kt_quick_search_default">
-                                            <form method="get" class="kt-quick-search__form">
-                                                <div class="input-group">
-                                                    <div class="input-group-prepend"><span class="input-group-text"><i class="flaticon2-search-1"></i></span></div>
-                                                    <input type="text" class="form-control kt-quick-search__input" placeholder="Search...">
-                                                    <div class="input-group-append"><span class="input-group-text"><i class="la la-close kt-quick-search__close"></i></span></div>
-                                                </div>
-                                            </form>
-                                            <div id="kt_quick_search_toggle" data-toggle="dropdown" data-offset="0px,10px"></div>
-                                            <div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-lg">
-                                                <div class="kt-quick-search__wrapper kt-scroll" data-scroll="true" data-height="300" data-mobile-height="200">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> -->
+                                    
                                 </div>
 
                                 <!-- end: Header Menu -->

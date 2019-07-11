@@ -8,65 +8,43 @@
 			</div>
 			<!-- end:: Content Head -->
 
-			<!-- begin:: Content -->
-			<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
-				<div class="row">
-					<div class="col-xs-6 col-lg-12">
-
-						<div class="kt-portlet">
-							<div class="kt-portlet__head">
-								<div class="kt-portlet__head-label">
-									<span class="kt-portlet__head-icon">
-										<i class="flaticon-customer"></i>
-									</span>
-									<h3 class="kt-portlet__head-title">
-										Grado Académico
-									</h3>
-								</div>
-								<div class="kt-portlet__head-toolbar">
-									<div class="kt-portlet__head-actions" data-placement="top" data-toggle="kt-tooltip" data-original-title="Añadir Grado">
-										<a href="#" class="btn btn-outline-success btn-sm btn-icon btn-icon-md" data-toggle="modal" data-target="#kt_modal_add">
-											<i class="flaticon-plus"></i>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="kt-portlet__body">
-								<div id="modal_datatable_local_source"></div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</div>
-			<!-- End:: Content -->
+            <div class="kt-container ">
+                <div class="kt-portlet">
+                    <div class="kt-portlet__body">
+                        <div class="kt-infobox">
+                            <div class="kt-infobox__header">
+                                <h2 class="kt-infobox__title">
+                                    <span class="kt-portlet__head-icon">
+                                        <i class="flaticon-customer"></i>
+                                    </span>Grado Académico</h2>
+                            </div>
+                            <div class="kt-infobox__body">
+                                <div class="row">
+                                    <div class="col-lg-3">
+                                       <form>
+                                            <div class="form-group">
+                                                <label for="recipient-name" class="form-control-label">Grado:</label>
+                                                <input type="text" class="form-control" id="var_grado" name="var_grado">
+                                            </div>
+                                            <div class="form-group">
+                                                <button type="button" class="btn btn-success">Añadir</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="col-lg-9">
+                                        <!--begin::Accordion-->
+                                        <div id="modal_datatable_local_source"></div>
+                                        <!--end::Accordion-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 		</div>
 	</div>
-</div>
-
-<div class="modal fade" id="kt_modal_add" tabindex="-1" role="dialog" aria-labelledby="add" style="display: none;" aria-hidden="true">
-    <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">AÑADIR GRADO</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                </button>
-            </div>
-            <div class="modal-body">
-                <form>
-                    <div class="form-group">
-                        <label for="recipient-name" class="form-control-label">Grado:</label>
-                        <input type="text" class="form-control" id="var_grado" name="var_grado">
-                    </div>
-                    
-                </form>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-success">Añadir</button>
-            </div>
-        </div>
-    </div>
 </div>
 
 <div class="modal fade" id="kt_modal_update" tabindex="-1" role="dialog" aria-labelledby="update" style="display: none;" aria-hidden="true">
