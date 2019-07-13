@@ -342,7 +342,7 @@
 
 
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-nivel" class="kt-menu__link">
+                                                            <a href="?s=wp-periodo" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-calendar">
                                                                 <span></span></i><span class="kt-menu__link-text">Periodo Académico</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
@@ -350,7 +350,7 @@
                                                         </li>
 
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-nivel" class="kt-menu__link">
+                                                            <a href="?s=wp-anio" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-calendar-1">
                                                                 <span></span></i><span class="kt-menu__link-text">Año Académico</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
@@ -368,7 +368,7 @@
                                                 <div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
                                                     <ul class="kt-menu__subnav">
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                            <a href="?s=wp-area" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-menu-button">
                                                                 <span></span></i><span class="kt-menu__link-text">Area</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
@@ -376,15 +376,15 @@
                                                         </li>
 
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                            <a href="?s=wp-salon" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-presentation-1">
-                                                                <span></span></i><span class="kt-menu__link-text">Curso</span>
+                                                                <span></span></i><span class="kt-menu__link-text">Salón</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
                                                             </a>
                                                         </li>
 
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-seccion" class="kt-menu__link">
+                                                            <a href="?s=wp-asignacion" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-settings">
                                                                 <span></span></i><span class="kt-menu__link-text">Asignación</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->

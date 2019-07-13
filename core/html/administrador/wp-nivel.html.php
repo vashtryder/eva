@@ -24,7 +24,7 @@
                                        <form>
                                             <div class="form-group">
                                                 <label for="recipient-name" class="form-control-label">Nivel:</label>
-                                                <input type="text" class="form-control" id="var_grado" name="var_grado">
+                                                <input type="text" class="form-control" id="var_seccion" name="var_seccion">
                                             </div>
                                             <div class="form-group">
                                                 <button type="button" class="btn btn-success">Añadir</button>
@@ -59,7 +59,7 @@
                 <form>
                     <div class="form-group">
                         <label for="recipient-name" class="form-control-label">Nivel:</label>
-                        <input type="text" class="form-control" id="var_grado" name="var_grado">
+                        <input type="text" class="form-control" id="var_seccion" name="var_seccion">
                     </div>
                 </form>
             </div>
