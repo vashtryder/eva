@@ -402,7 +402,7 @@
                                                 <div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
                                                     <ul class="kt-menu__subnav">
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                            <a href="?s=wp-eva" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-menu-button">
                                                                 <span></span></i><span class="kt-menu__link-text">Eva</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
@@ -410,16 +410,7 @@
                                                         </li>
 
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-grado" class="kt-menu__link">
-                                                                <i class="kt-menu__link-icon flaticon-presentation-1">
-                                                                <span></span></i><span class="kt-menu__link-text">Tutor</span>
-                                                                <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
-                                                            </a>
-                                                        </li>
-
-
-                                                        <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-seccion" class="kt-menu__link">
+                                                            <a href="?s=wp-configuracion" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-settings">
                                                                 <span></span></i><span class="kt-menu__link-text">Configuración</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
