@@ -428,7 +428,7 @@
                                                 <div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
                                                     <ul class="kt-menu__subnav">
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-grado" class="kt-menu__link">
+                                                            <a href="?s=wp-estudiante" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-user">
                                                                 <span></span></i><span class="kt-menu__link-text">Estudiante</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
@@ -436,7 +436,7 @@
                                                         </li>
 
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-seccion" class="kt-menu__link">
+                                                            <a href="?s=wp-personal" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-users">
                                                                 <span></span></i><span class="kt-menu__link-text">Personal</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
@@ -444,7 +444,7 @@
                                                         </li>
 
                                                         <li class="kt-menu__item " data-ktmenu-submenu-toggle="hover" aria-haspopup="true">
-                                                            <a href="?s=wp-nivel" class="kt-menu__link">
+                                                            <a href="?s=wp-usuario" class="kt-menu__link">
                                                                 <i class="kt-menu__link-icon flaticon-avatar">
                                                                 <span></span></i><span class="kt-menu__link-text">Usuario</span>
                                                                 <!-- <i class="kt-menu__hor-arrow la la-angle-right"></i> -->
